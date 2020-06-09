@@ -1,0 +1,15 @@
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #cccc;
+  color: white;
+  font-size: 15px;
+}
+
+.status-cloum {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
