@@ -4,6 +4,7 @@
 @import "header.css";
 @import "home.css";
 @import "nav.css";
+@import "quest.css";
 
 * {
   box-sizing: border-box;
