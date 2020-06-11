@@ -3,6 +3,11 @@
 @import "status.css";
 @import "header.css";
 @import "home.css";
+@import "nav.css";
+
+* {
+  box-sizing: border-box;
+}
 
 .body {
   font-family: "Balsamiq Sans", cursive;

@@ -1,13 +1,12 @@
 .menu {
   display: flex;
+  height: 50px;
   align-items: center;
-  margin-bottom: 15px;
   background-color: #f4f4f4;
   font-size: 20px;
 }
 
 .menu-cloum {
-  margin-top: 15px;
   margin-left: 20px;
 }
 
@@ -27,6 +26,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-top: 15px;
 }
 
 .play-clomn-cloum {
@@ -35,7 +35,6 @@
 }
 
 .play-clomn {
-  margin-top: 20px;
   margin-bottom: 30px;
   align-items: top;
 }
@@ -62,4 +61,9 @@
   opacity: 0.6;
   font-size: 15px;
   margin-right: 5px;
+}
+
+.home a {
+  text-decoration: none;
+  color: black;
 }
