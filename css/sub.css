@@ -1,0 +1,40 @@
+.sub-top {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  box-shadow: 0 8px 6px -6px gray;
+}
+
+.sub-list-icon {
+  width: 80px;
+  border-radius: 50px;
+}
+
+.sub-list-name {
+  display: block;
+  text-align: c;
+}
+
+.sub-list-right {
+  color: blue;
+}
+
+.sub-play-top {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 60px;
+}
+
+.sub-play {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+
+.sub-play-icon {
+  margin-left: 5px;
+  margin-top: 10px;
+}
