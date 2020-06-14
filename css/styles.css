@@ -7,11 +7,9 @@
 @import "quest.css";
 @import "sub.css";
 @import "message.css";
+@import "mylist.css";
 
 * {
   box-sizing: border-box;
-}
-
-.body {
-  font-family: "Balsamiq Sans", cursive;
+  font-family: "Balsamiq Sans";
 }
