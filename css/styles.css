@@ -6,6 +6,7 @@
 @import "nav.css";
 @import "quest.css";
 @import "sub.css";
+@import "message.css";
 
 * {
   box-sizing: border-box;

@@ -1,0 +1,28 @@
+.message {
+  width: 100%;
+}
+
+.message-contant {
+  font-size: 20px;
+}
+
+.message-video {
+  width: 70px;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.message-time {
+  opacity: 0.6;
+}
+
+.message-colum {
+  margin-right: 10px;
+}
+
+.message-icon {
+  margin-top: 10px;
+  margin-right: 10px;
+  opacity: 0.6;
+}
