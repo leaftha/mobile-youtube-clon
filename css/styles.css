@@ -8,6 +8,7 @@
 @import "sub.css";
 @import "message.css";
 @import "mylist.css";
+@import "setting.css";
 
 * {
   box-sizing: border-box;
