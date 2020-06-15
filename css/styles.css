@@ -9,6 +9,7 @@
 @import "message.css";
 @import "mylist.css";
 @import "setting.css";
+@import "video.css";
 
 * {
   box-sizing: border-box;
