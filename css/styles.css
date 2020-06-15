@@ -10,6 +10,7 @@
 @import "mylist.css";
 @import "setting.css";
 @import "video.css";
+@import "mobile.css";
 
 * {
   box-sizing: border-box;
