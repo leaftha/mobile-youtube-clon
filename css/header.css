@@ -38,3 +38,16 @@
   width: 30px;
   border-radius: 50%;
 }
+
+@keyframes spin {
+  from {
+    transform: none;
+  }
+  to {
+    transform: rotateY(1turn);
+  }
+}
+
+.headers img {
+  animation: spin 1s linear infinite;
+}
